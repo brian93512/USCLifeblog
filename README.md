@@ -12,7 +12,7 @@ USC Life Blog is a social media blog for students to share their lifestyle. Life
 
 ## How to use it?
 
-Simply create an accout, and you can post, and search any posts
+Simply create an accout, and you can share, search any posts you like!
 
 ## Copyright and License
 
