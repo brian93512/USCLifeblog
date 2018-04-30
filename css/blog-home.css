@@ -1,0 +1,93 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+  font-family: 'Roboto', sans-serif;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+/*.login-form {
+	width: 340px;
+	margin: 50px auto;
+}*/
+/*.modal-content {
+	background: rgba(247,247,247,0);
+}*/
+.login-form form {
+	margin-bottom: 15px;
+    background: #f7f7f7;
+    /*background: rgba(247,247,247,0.3);*/
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+}
+.login-form h2 {
+    margin: 0 0 15px;
+}
+.form-control, .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+/*.btn {        
+    font-size: 15px;
+    font-weight: bold;
+}*/
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
+
+.thumbnail {
+  position: relative;
+  /*max-width: 608px;*/
+  max-width: 100%;
+  height: 320px;
+  overflow: hidden;
+}
+.thumbnail img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+.thumbnail img.portrait {
+  width: 100%;
+  height: auto;
+}
+
+.dot-menu:after {
+  content: "\22EE";
+  font-size: 1.5em;
+  color: #2e2e2e;
+  /*cursor: pointer;*/
+}
+/*.card-body {
+  padding: 2px 16px;
+}*/
+.card-title {
+  padding: 2px 16px;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+/*.dropdown {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 0rem;
+}*/
