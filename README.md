@@ -4,9 +4,11 @@
 
 ## Preview
 
-[![Blog Home Preview](https://startbootstrap.com/assets/img/templates/blog-home.jpg)](https://blackrockdigital.github.io/startbootstrap-blog-home/)
+[![Blog Home Preview](gs://inf551-38148.appspot.com/blog_preview/blog_preview2.png)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-blog-home/)**
+[![Blog Home Preview](gs://inf551-38148.appspot.com/blog_preview/blog_preview1.png)
+
+**[View Live Preview](http://www-scf.usc.edu/~chiweili/blog/index.html#)**
 
 ## Copyright and License
 
